@@ -1,0 +1,2 @@
+# mooreautomats
+Moore Automata simulation
